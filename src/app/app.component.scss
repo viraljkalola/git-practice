@@ -1,0 +1,56 @@
+h2 {
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+.btn {
+    margin-left: 24%;
+    width: 11%;
+    padding: 8px 8px;
+    background-color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: rgb(223, 247, 253);
+    cursor: pointer;
+}
+
+.vl {
+    position: absolute;
+    border-left: 2px solid black;
+    height: 420px;
+    left: 37%;
+    top: 18%
+}
+
+.main {
+    position: absolute;
+    font-size: 20px;
+    width: 23%;
+    display: flex;
+    justify-content: space-between;
+    left: 38%;
+    top: 18%;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+
+.name {
+    position: absolute;
+    left: 38%;
+    top: 22%;
+    display: flex;
+    justify-content: space-between;
+    width: 23%;
+}
+
+.total {
+    position: absolute;
+    left: 38%;
+    top: 68%;
+    display: flex;
+    justify-content: space-between;
+    width: 23%;
+}
