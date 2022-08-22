@@ -1,4 +1,4 @@
-* What is two way data binding?
+
 * What is DI and how angular handling DI?
 * What is lazy loading and how can we achieve this?
 * What is content Projection?
