@@ -1,5 +1,5 @@
 
-* What is DI and how angular handling DI?
+Viral Kalola
 * What is lazy loading and how can we achieve this?
 * What is content Projection?
 * What are observables and promises which one to use in angular?
